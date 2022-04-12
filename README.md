@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Penny and I am going to joining the School of Code Spring 2022 course!
+
 <!--
 **penny-luc/penny-luc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
